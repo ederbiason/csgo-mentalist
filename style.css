@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    min-height: 600px;
+    background-image: url("https://dmarket.com/blog/best-csgo-wallpapers/Nice-CS-GO-wallpaper-HD_hu9daf9fbbe6aa6f61f011d2b89d3e158b_1307082_1920x1080_resize_q75_lanczos.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+  
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+  
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+    font-size: 50px;
+}
+  
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 16px;
+}
+  
+.page-logo {
+    width: 200px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+  
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+  
+@media (max-height: 500px) {
+    body {
+        min-height: 800px;
+    }
+}
+  
+input {
+    margin: 4px;
+    padding: 6px;
+    border-radius: 5px;
+    border: 0;
+    border: solid 2px white;
+}
+
+input:hover{
+    border: solid 2px #40C4FF;
+}
+  
+button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 8px;
+    background: #40C4FF;
+    border: 0;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+    border: solid 1px #40C4FF;
+}
+
+button:hover{
+    border: solid 1px black;
+    background: #72d2ff;
+}
+
+button:disabled {
+    opacity: 0.5;
+    cursor: default;
+}
+
+.desert-eagle {
+    width: 500px;
+    height: 300px;
+}
+
+.resultado {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 16px;
+    font-size: 1.3rem;
+}
+
+img {
+    margin-right: 15px;
+}
+
+.headshot {
+    width: 54px;
+    height: 54px;
+}
