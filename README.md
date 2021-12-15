@@ -37,6 +37,7 @@ I've participated of a programming event from Aura, where we did a lot mini proj
 
 - [x] User interactivity
 - [x] Sound effects
+- [ ] Animation
 - [ ] Responsivity
 
 
