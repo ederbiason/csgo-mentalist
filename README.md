@@ -45,7 +45,7 @@ I've participated of a programming event from Aura, where we did a lot mini proj
 <div align="center"; diplay= "flex"; flex-direction= "row">
     <img src="https://media.giphy.com/media/CZX1ci5jG1YFpq6NkW/giphy.gif">
 
-    For a better view of the project, access this CodePen: https://codepen.io/eder-biason/pen/ZEJyBvb
+    For a better view of the project, access this CodePen: https://codepen.io/eder-biason/full/ZEJyBvb
 </div>
 
 ## :memo: License
